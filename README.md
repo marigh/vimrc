@@ -1,2 +1,4 @@
 # vimrc
-.vimrc ile 
+
+.vimrc file 
+
